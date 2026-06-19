@@ -1,0 +1,1 @@
+{"version":3,"file":"stats.d.ts","sourceRoot":"","sources":["../../../src/generated/types/stats.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,WAAW,KAAK;IACpB,eAAe,EAAE,MAAM,CAAC;IACxB,cAAc,EAAE,MAAM,CAAC;IACvB,cAAc,EAAE,MAAM,CAAC;IACvB,gBAAgB;IAChB,eAAe,EAAE,MAAM,GAAG,IAAI,CAAC;IAC/B,gBAAgB;IAChB,gBAAgB,EAAE,MAAM,GAAG,IAAI,CAAC;CACjC"}
